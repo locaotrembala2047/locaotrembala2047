@@ -1,16 +1,16 @@
-## Hi there 👋
+## Boas vindas ao meu perfil 🏍️
 
-<!--
-**locaotrembala2047/locaotrembala2047** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+meu nome e Lucas gabriel bruamti galdi
 
-Here are some ideas to get you started:
+-Estou estudamado no alura
+-Estou me desenvolvendo na linguagem de javascript
+-Utilizo esse espaço para minha organização e compartilhamento dos meus ptojetos desenvolvidos 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### voce pode entrar em contato comigo 📫
+
+00001118930472SP@al.educacao.sp.gov.br
+
+
+
+![]()
+https://tenor.com/pt-BR/view/lol-sus-troll-troll-face-face-gif-22065080
